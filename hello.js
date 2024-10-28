@@ -6,3 +6,4 @@ let i=2;
 console.log(i);
 
 console.log("commit 1");
+console.log("commit 2");
